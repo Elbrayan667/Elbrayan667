@@ -1,3 +1,8 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&reversal=true />
+</div>
+
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
   Hi, I'm <b>Brayan Causil</b>
@@ -50,6 +55,9 @@
 - Backend logic and integrations
 - Data pipelines (scripts + DB)
 
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+
+
 ### 🔹 Frontend
 - HTML5
 - CSS (basic layouts and structure)
@@ -65,3 +73,5 @@
 - Backend Developer (Junior / Intern)
 - Full-Stack Developer (Junior)
 - Data-oriented
+
+
