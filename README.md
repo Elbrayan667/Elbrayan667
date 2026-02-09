@@ -15,10 +15,7 @@
 
 ## 👨‍💻 About Me
 
-<picture>
-  <img align="right" width="250"
-       src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif"/>
-</picture>
+
 
 - 🎓 Systems Engineering student  
 - 🧠 Strong interest in **Backend Development & Data Engineering**
@@ -31,7 +28,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+##  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technical Skills
 
 ### 🔹 Programming & Scripting
 - Python
