@@ -1,26 +1,70 @@
-<h1 align="center"> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hi , I'm Brayan Causil <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
-
-
-  
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  Hi, I'm <b>Brayan Causil</b>
+  <img alt="Hello" height="60" align="center"
+       src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"/>
 </h1>
-<!--  -->I'm engineer sistem
+
+<h3 align="center">Full-Stack Developer | Backend & Data-Oriented</h3>
+
 <p align="center">
+  Passionate about building scalable systems, automation, and data-driven solutions.
+</p>
 
+---
 
+## 👨‍💻 About Me
 
+<picture>
+  <img align="right" width="250"
+       src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif"/>
+</picture>
 
-## <picture></picture> **About me**
+- 🎓 Systems Engineering student  
+- 🧠 Strong interest in **Backend Development & Data Engineering**
+- 🔁 Experience automating processes and integrating APIs
+- 🧪 Hands-on with databases, scripts, and backend logic
+- 📈 Comfortable working with data analysis and reporting tools
+- 🚀 Open to **Internship / Junior Backend or Full-Stack roles**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<br/>
 
-<br>
+---
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+## 🛠️ Technical Skills
 
-<br><br>
+### 🔹 Programming & Scripting
+- Python
+- JavaScript
+- Google Apps Script
+- Selenium (automation & scraping)
 
+### 🔹 Databases & SQL
+- PostgreSQL  
+- MySQL  
+- BigQuery  
 
+✔️ Database design  
+✔️ Complex queries  
+✔️ Data analysis and optimization  
+
+### 🔹 Backend & APIs
+- REST API testing with Postman
+- Backend logic and integrations
+- Data pipelines (scripts + DB)
+
+### 🔹 Frontend
+- HTML5
+- CSS (basic layouts and structure)
+
+### 🔹 Data & Productivity Tools
+- Microsoft Excel (formulas, analysis)
+- Google Sheets (functions, automation)
+
+---
+
+## 📌 What I’m Looking For
+
+- Backend Developer (Junior / Intern)
+- Full-Stack Developer (Junior)
+- Data-oriented
