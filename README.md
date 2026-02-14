@@ -41,9 +41,9 @@
 - PostgreSQL  
 - MySQL  
 - BigQuery  
-- ✔️ Database design  
-- ✔️ Complex queries  
-- ✔️ Data analysis and optimization  
+- Database design  
+- Complex queries  
+- Data analysis and optimization  
 
 ### 🔹 Backend & APIs
 - REST API testing with Postman
