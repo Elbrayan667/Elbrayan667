@@ -18,14 +18,14 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Systems Engineering student  
-- 🧠 Strong interest in **Backend Development & Data Engineering**
-- 🔁 Experience automating processes and integrating APIs
-- 🧪 Hands-on with databases, scripts, and backend logic
-- 📈 Comfortable working with data analysis and reporting tools
-- 🚀 Open to **Internship / Junior Backend or Full-Stack roles**
+- Systems Engineering student  
+- Strong interest in **Backend Development & Data Engineering**
+- Experience automating processes and integrating APIs
+- Hands-on with databases, scripts, and backend logic
+- Comfortable working with data analysis and reporting tools
+- Open to **Internship / Junior Backend or Full-Stack roles**
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -74,7 +74,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 📌 What I'm Looking For
+## What I'm Looking For
 
 - Backend Developer (Junior / Intern)
 - Full-Stack Developer (Junior)
@@ -82,7 +82,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 📫 Contact Me
+## Contact Me
 
 <p align="center">
   <a href="mailto:causilmurciabrayandavid@gmail.com">
